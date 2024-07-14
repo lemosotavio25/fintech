@@ -116,7 +116,7 @@ i {
 }
 
 /* ajustes para telas pequenas */
-@media (max-width: 576px)
+@media (max-width: 763px)
 {
 * {
     font-size: 1.0rem;
